@@ -21,7 +21,7 @@ html {
     top: 0;
 }
 
-.left {
+.left a {
     font-size: 24px;
     color: #F9FAF8;
 }
@@ -163,7 +163,7 @@ a:hover {
     color: #E5E7EB;
 }
 
-.footer_btn {
+.register_btn {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 12px 24px;
@@ -171,8 +171,14 @@ a:hover {
     border: 2px solid #F9FAF8;
 }
 
-.footer_btn:hover {
+.register_btn:hover {
     color: #E5E7EB;
     border: 2px solid #E5E7EB;
     cursor: pointer;
+}
+
+.footer {
+    padding: 2rem;
+    text-align: center;
+    color: #E5E7EB;
 }
