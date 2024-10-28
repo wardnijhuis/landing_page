@@ -24,7 +24,7 @@ You can visit the website [here](https://wardnijhuis.github.io/landing_page/). T
 
 ## Credits
 
-Hero image: [WallpaperAccess](https://wallpaperaccess.com/web-developer)
+Hero image: [WallpaperAccess](https://wallpaperaccess.com/web-developer)\
 Courses icons: [freeCodeCamp](https://www.freecodecamp.org/)
 
 ## License
