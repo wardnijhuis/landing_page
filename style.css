@@ -117,3 +117,22 @@ a:hover {
     color: #1A1814;
     text-align: center;
 }
+
+.testimonials {
+    background-color: #E5E7EB;
+    padding: 8rem;
+}
+
+.testimonial {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: right;
+    margin-right: 4rem;
+}
