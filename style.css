@@ -82,6 +82,7 @@ a:hover {
 
 .hero_btn:hover {
     border: 2px solid #F9FAF8;
+    cursor: pointer;
 }
 
 .course_heading {
@@ -135,4 +136,43 @@ a:hover {
     font-weight: 700;
     text-align: right;
     margin-right: 4rem;
+}
+
+.register {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 3rem 6rem;
+    border-radius: 0.5rem;
+    border: 2px solid #3882F6;
+    margin: 6rem 12rem;
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.text {
+    width: 75%;
+}
+
+.text h2 {
+    margin-bottom: 0.5rem;
+}
+
+.text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.footer_btn {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 12px 24px;
+    border-radius: 0.5rem;
+    border: 2px solid #F9FAF8;
+}
+
+.footer_btn:hover {
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    cursor: pointer;
 }
